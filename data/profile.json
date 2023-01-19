@@ -1,10 +1,10 @@
 {
-  "name": "Rafael Skawinski Amaral",
-  "photo": "https://avatars.githubusercontent.com/u/123077649",
-  "job": "Analista de Desenvolvimento de Sistemas PLENO",
-  "location": "São Paulo - BR",
-  "phone": "+55 11 91222-0082",
-  "email": "rafael_ska@live.com",
+  "meuNome": "Rafael Skawinski Amaral",
+  "minhaFoto": "https://avatars.githubusercontent.com/u/123077649",
+  "meuTrabalho": "Analista de Desenvolvimento de Sistemas PLENO",
+  "meuEndereco": "São Paulo - BR",
+  "meuTelefone": "+55 11 91222-0082",
+  "meuEmail": "rafael_ska@live.com",
   "skills": {
     "hardSkills": [
       {
